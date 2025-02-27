@@ -1,0 +1,5 @@
+const int Yellow = A1;
+const int Black = A2;
+
+valYellow = digitalRead(Yellow);
+valBlack = digitalRead(Black);
